@@ -1,6 +1,9 @@
 [
     {
-        "author": "Lucy Maud Montgomery OBE, publicly known as L. M. Montgomery",
+        "author": [
+            "L. M. Montgomery",
+            "Lucy Maud Montgomery OBE"
+        ],
         "quotes": [
             "Tomorrow is always fresh, with no mistakes in it.",
             "We should regret our mistakes and learn from them, but never carry them forward into the future with us.",
@@ -8,13 +11,17 @@
         ]
     },
     {
-        "author": "John Keats",
+        "author": [
+            "John Keats"
+        ],
         "quotes": [
             "A thing of beauty is a joy for ever."
         ]
     },
     {
-        "author": "Mahatma Gandhi",
+        "author": [
+            "Mahatma Gandhi"
+        ],
         "quotes": [
             "Live as if you were to die tomorrow. Learn as if you were to live forever."
         ]
